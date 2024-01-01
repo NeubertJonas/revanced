@@ -52,7 +52,7 @@ enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 
 [Backdrops]
-uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 
 [WarnWetter]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/deutscher-wetterdienst/warnwetter/"
