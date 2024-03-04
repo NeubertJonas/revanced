@@ -36,7 +36,6 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/deutscher-wetterdienst/warnwett
 
 [Windy.app]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
-arch = "arm64-v8a"
 
 [Infinity for Reddit]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
