@@ -67,7 +67,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/deutscher-wetterdienst/warnwetter/"
 
 [Windy.app]
-apkmirror-dpi = "480d-640dpi" 
+apkmirror-dpi = "480-640dpi" 
 apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
 
 [Infinity for Reddit]
