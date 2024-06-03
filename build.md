@@ -1,6 +1,7 @@
-Music: 7.03.51  
+Music: 7.03.52  
 Twitter: 10.43.0-release.0  
-YouTube: 19.11.43  
+Reddit: 2024.17.0  
+YouTube: 19.16.39  
 Twitch: 16.9.1  
 WarnWetter: 4.2.2  
 InfinityforReddit: 7.2.3  
@@ -12,6 +13,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.9.2.apk  
-Patches: ReVanced/revanced-patches-4.8.3.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.8.3)  
+Integrations: ReVanced/revanced-integrations-1.10.0.apk  
+Patches: ReVanced/revanced-patches-4.9.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.9.0)  
