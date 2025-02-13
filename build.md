@@ -1,6 +1,7 @@
 IconPackStudio: 2.2 build 016  
 Music: 7.29.52  
 Music-Extended: 7.16.53  
+Reddit-Extended: 2025.05.1  
 YouTube: 19.47.53  
 YouTube-Extended: 19.44.39  
 
