@@ -60,7 +60,8 @@ app-name = "Reddit"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-uptodown-dlurl = "https://reddit-official-app.uptodown.com/android"
+# Might have to update this link later!
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/reddit-2025-12-1-release/"
 # apkmirror-dpi = "120-640dpi"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 
