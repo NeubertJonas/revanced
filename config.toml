@@ -56,6 +56,8 @@ build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Reddit-Extended]
+enabled = false
+# manual compilation necessary because APK is incompatible and requires splitting
 app-name = "Reddit"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
